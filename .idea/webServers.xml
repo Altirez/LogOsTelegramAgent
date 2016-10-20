@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="de58422b-bb86-4f8d-a743-327d61da80e0" name="GsoftServer" url="http://dev.log-os.ru">
+        <fileTransfer host="dev.log-os.ru" port="4422" rootFolder="/home/gsoft/logos-status-checker" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="4422" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

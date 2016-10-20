@@ -1,0 +1,14 @@
+{
+  "Name": "Логось на сервере Канавары",
+  "Home": "/home/gsoft/dev-logistic-web",
+  "ProcessName": "dev-logos",
+
+  "Connection": {
+    "Href": "logos.canavara-group.ru",
+    "EnforceHttps": true
+  },
+  "Database":{
+    "Port": 5432,
+    "Name": "logistic-dev"
+  }
+}

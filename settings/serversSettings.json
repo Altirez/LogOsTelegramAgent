@@ -1,0 +1,14 @@
+{
+  "Canavara":{
+    "Host": "logos.canavara-group.ru",
+    "Instances": [
+      "canavara-deploy"
+    ]
+  },
+  "Gsoft": {
+    "Host": "dev.log-os.ru",
+    "Instances":[
+      "dev-logos"
+    ]
+  }
+}

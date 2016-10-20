@@ -1,0 +1,14 @@
+{
+  "Name": "Логось DEV",
+  "Home": "/home/gsoft/dev-logistic-web",
+  "ProcessName": "dev-logos",
+
+  "Connection": {
+    "Href": "dev.logos.ru",
+    "EnforceHttps": false
+  },
+  "Database":{
+    "Port": 5432,
+    "Name": "logistic-dev"
+  }
+}
